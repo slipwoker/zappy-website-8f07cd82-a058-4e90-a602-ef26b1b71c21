@@ -1,0 +1,86 @@
+# Tohar Avital — Generative Engine Optimization Map
+
+> A modern video editing service business seeking an elegant and sleek website for booking appointments. The brand has an existing logo that should guide the color palette and overall visual identity of the site, aiming for a polished, professional, and contemporary aesthetic.
+
+---
+
+## Pages
+
+### בית
+https://tohar-avital-8f07cd82.zappy5.app
+מחפשים שירותי עריכת וידאו מקצועיים? ב-Tohar Avital נהפוך את הצילומים שלכם ליצירת מופת קולנועית. הזמינו תור עוד היום וקבלו תוצאה שתשאיר את כולם פעורי פה.
+
+### שירותים
+https://tohar-avital-8f07cd82.zappy5.app/services
+גלו את חבילות עריכת הווידאו המגוונות שלנו, החל מעריכת חתונות מרגשת ועד תוכן יוטיוב שובה לב. Tohar Avital מתאימה לכם פתרון מושלם עם טאץ&#39; אישי וחדשני.
+
+### אודות
+https://tohar-avital-8f07cd82.zappy5.app/about
+הכירו את הסיפור של Tohar Avital, סטודיו בוטיק לעריכת וידאו המשלב חזון אמנותי עם דיוק טכני. אנחנו כאן כדי להפוך את החזון שלכם למציאות על המסך.
+
+### עבודות
+https://tohar-avital-8f07cd82.zappy5.app/work
+צפו במבחר פרויקטים מרהיבים של עריכת וידאו שהפקנו ללקוחותינו. מחתונות קסומות ועד סרטוני תדמית עוצרי נשימה, Tohar Avital מוכיחה שהאיכות מדברת בעד עצמה.
+
+### צור קשר
+https://tohar-avital-8f07cd82.zappy5.app/contact
+מוכנים להפיק סרט שיסחוף את הלב? צרו קשר עם Tohar Avital עוד היום והתחילו לתכנן את פרויקט עריכת הווידאו הבא שלכם. המענה מהיר, היצירתיות אינסופית.
+
+### תודה רבה | Tohar Avital
+https://tohar-avital-8f07cd82.zappy5.app/thank-you
+תודה רבה על פנייתך. קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי לגבי שירותי עריכת וידאו מקצועיים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tohar-avital-8f07cd82.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tohar-avital-8f07cd82.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tohar-avital-8f07cd82.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://tohar-avital-8f07cd82.zappy5.app/contact
+- Endpoint: https://tohar-avital-8f07cd82.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Tohar Avital
+A modern video editing service business seeking an elegant and sleek website for booking appointments. The brand has an existing logo that should guide the color palette and overall visual identity of the site, aiming for a polished, professional, and contemporary aesthetic.
+
+## Target Audience
+- יוצרי תוכן דיגיטלי
+- בעלי עסקים קטנים
+- מארגני אירועים
+
+## Industry
+Video Editing Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://tohar-avital-8f07cd82.zappy5.app/sitemap.xml
+- Robots: https://tohar-avital-8f07cd82.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tohar-avital-8f07cd82.zappy5.app/llms-full.txt
